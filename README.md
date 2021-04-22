@@ -2,6 +2,4 @@
 
 Control Code for our Autonomous Robotic Elephant
 
-ME 4951 Senior Design
-
-
+Vanderbilt ME 4951 Senior Design
