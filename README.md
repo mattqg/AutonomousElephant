@@ -1,2 +1,1 @@
-Code for Dumbotron, an Autonomous Robotic Elephant
-ME 4951 Senior Design
+Code for Dumbotron, an Autonomous Robotic Elephant for ME 4951 Senior Design
